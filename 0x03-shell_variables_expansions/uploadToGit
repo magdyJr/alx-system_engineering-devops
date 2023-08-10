@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m "upload done"
-echo 'magdyJr' | git push
+git push | echo 'magdyJr'
